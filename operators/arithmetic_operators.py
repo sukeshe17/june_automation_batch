@@ -16,6 +16,7 @@ a = 1
 b = 2
 c = 10
 d = 30
-#PEMDAS
-s = a + b * 3 / c + d * (a + b)
-print(s)
+#PEMDAS s = a + b * 3 / c + d * (a + b)
+#print(s)
+
+print("(8+2)*3/2",(8+2)*3/2)
